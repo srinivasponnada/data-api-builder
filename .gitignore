@@ -38,3 +38,26 @@ dab-config*.json
 
 # Verify test files
 *.received.*
+/src/Service/appsettings.json
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - FTP.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - FTP1.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - FTP2.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - ReadOnly - FTP.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - ReadOnly - FTP1.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - ReadOnly - FTP2.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - Web Deploy.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - Zip Deploy.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - Zip Deploy1.pubxml
+/src/Service/Properties/PublishProfiles/cs-dab-integration-dev - Zip Deploy2.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-dev - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-dev - ReadOnly - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-dev - Web Deploy.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-dev - Zip Deploy.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-tst - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-tst - ReadOnly - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-tst - Web Deploy.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-tst - Zip Deploy.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-uat - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-uat - ReadOnly - FTP.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-uat - Web Deploy.pubxml
+/src/Service/Properties/PublishProfiles/app-dab-csapi-uat - Zip Deploy.pubxml
